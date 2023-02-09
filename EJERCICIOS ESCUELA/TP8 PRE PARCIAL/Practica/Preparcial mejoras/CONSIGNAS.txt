@@ -1,0 +1,18 @@
+EXAMEN PARCIAL N°2           PROGRAMACIÓN II
+
+Recibirás un archivo de texto llamado "NOMBRES.TXT". El mismo contiene la 
+siguiente información:
+
+NOMBRE    ORIGEN    SIGNIFICADO DEL NOMBRE
+
+La estructura del archivo está un poco desorganizada y deberás generar un archivo
+"MEJORAS.TXT" con la misma información pero formateada. Para ello debes sortear
+los siguientes inconvenientes:
+
+Los separadores de los datos son asteriscos (*) y no van al nuevo archivo.
+No debes guardar la palabra "Origen:" en el nuevo archivo.
+No debes guardar la palabra "Significado:" en el nuevo archivo.
+Debes evitar en lo posible no guardar ";" (punto y coma).
+
+Una vez generado el archivo "MEJORAS.TXT" has un código para ingresar un nombre y
+buscar el nombre, el origen y significado del mismo.

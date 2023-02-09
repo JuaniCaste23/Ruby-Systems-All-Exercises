@@ -1,0 +1,598 @@
+AARON *Origen:Hebreo;    *Significado:Elevado, alto, montañoso 
+ABEL *Origen:Hebreo;    *Significado:Aliento, respiración,vanidad 
+ABELARDO *Origen:Germano;    *Significado:Noble, Osado, temerario 
+ABIGAIL *Origen:Hebreo;    *Significado:Fuente de alegría 
+ABRAHAM *Origen:Hebreo;    *Significado:Padre superior 
+ABRIL *Origen:Latino;    *Significado:Apertura 
+ADA *Origen:Hebreo;    *Significado:Belleza 
+ADALBERTO *Origen:Germano;    *Significado:Que brilla noblemente 
+ADAN *Origen:Hebreo;    *Significado:Hombre de la tierra 
+ADELA *Origen:Germano;    *Significado:De noble cuna 
+ADELAIDA *Origen:Germano;    *Significado:De noble cuna 
+ADELINA *Origen:Germano;    *Significado:De noble cuna 
+ADELMO *Origen:Germano;    *Significado:Noble 
+ADOLFO *Origen:Germano;    *Significado:Lobo, noble 
+ADRIAN *Origen:Latino;    *Significado:De Adria (Del Mar Adriático) 
+ADRIANO *Origen:Latino;    *Significado:Negro 
+AGATA *Origen:Griego;    *Significado:Buena, amable 
+ÁGUEDA *Origen:Griego;    *Significado:Buena, amable 
+AGUSTIN *Origen:Latino;    *Significado:Perteneciente a Agostoo 
+AIDA *Origen:Italiano;    *Significado:Conductora 
+AINARA *Origen:Vasco;    *Significado:Originario de Vizcaya. Sin datos 
+ALAN *Origen:Germano;    *Significado:De la tribu de los Alanos 
+ALBANO *Origen:Latino;    *Significado:Blanco, puro, luminoso 
+ALBERTO *Origen:Germano;    *Significado:Que brilla con nobleza 
+ALCIRA *Origen:Árabe;    *Significado:Natural de Algeciras (España) 
+ALDO *Origen:Germano;    *Significado:Experto 
+ALEJANDRO *Origen:Germano;    *Significado:Auxiliar de los hombres
+ALEJANDRA *Origen:Germano;    *Significado:Auxiliar de los hombres 
+ALEJO *Origen:Germano;    *Significado:Arroja el mal 
+ALFONSO *Origen:Germano;    *Significado:Estratega 
+ALFREDO *Origen:Germano;    *Significado:Consejero 
+ALICIA *Origen:Germano;    *Significado:Noble alegría, consuelo 
+ALINA *Origen:Germano;    *Significado:Amiga noble 
+ALMUDENA *Origen:Árabe;    *Significado:La ciudad 
+ALONSO *Origen:Germano;    *Significado:Estratega (Variante de Alfonso)
+ALVARO *Origen:Germano;    *Significado:Atento 
+AMADEO *Origen:Latino;    *Significado:Que ama a Dios 
+AMALIA *Origen:Germano;    *Significado:Laboriosa 
+AMANCIO *Origen:Latino;    *Significado:Amante 
+AMANDA *Origen:Latino;    *Significado:Merecedora de amor 
+AMARANTO *Origen:Griego;    *Significado:Flor eterna 
+AMAYA *Origen:Vasco;    *Significado:Principio del fin 
+AMOS *Origen:Hebreo;    *Significado:Carga 
+AMBROSIO *Origen:Griego;    *Significado:Inmortal, Divino 
+AMELIA *Origen:Germano;    *Significado:Afanosa, enérgica 
+AMIRA *Origen:Árabe;    *Significado:La princesa 
+AMPARO *Origen:Latino;    *Significado:Protectora 
+ANA *Origen:Hebreo;    *Significado:Graciosa 
+ANACLETO *Origen:Griego;    *Significado:Que invoca auxilio 
+ANASTASIO *Origen:Griego;    *Significado:Resucitado, resurrección
+ANASTASIA *Origen:Griego;    *Significado:Resucitado, resurrección 
+ANDER *Origen:Vasco;    *Significado:Forma vasca de Andrés (del griego andros: Hombre) 
+ANDRES *Origen:Griego;    *Significado:Viril 
+ANGEL *Origen:Griego;    *Significado:Mensajero, angelical
+ÁNGELA *Origen:Griego;    *Significado:Mensajero, angelical 
+ANGELINA *Origen:Griego;    *Significado:Mensajero, angelical
+ANGELICA *Origen:Griego;    *Significado:Mensajero, angelical 
+ÁNGELES *Origen:Griego;    *Significado:Buena, pura, mensajera celeste 
+ANIBAL *Origen:Fenicio;    *Significado:Gracia de Baal (El Dios) 
+ANICETO *Origen:Griego;    *Significado:Invicto 
+ANGUSTIAS *Origen:Latino;    *Significado:Angosto, difícil 
+ANSELMO *Origen:Germano;    *Significado:Guerrero del Señor 
+ANTONIO *Origen:Latino;    *Significado:Digno de alabanza
+ANTONIA *Origen:Latino;    *Significado:Digno de alabanza 
+ANTONIETA *Origen:Latino;    *Significado:Florcita, llena de gracia 
+APOLO *Origen:Griego;    *Significado:Dios del sol 
+AQUILES *Origen:Griego;    *Significado:Consuelo en el dolor 
+AQUILINO *Origen:Latino;    *Significado:Como el águila 
+ARACELI *Origen:Latino;    *Significado:Altar del cielo 
+ARCHIBALDO *Origen:Germano;    *Significado:Muy valiente 
+ARIADNA *Origen:Griego;    *Significado:De dulce canto 
+ARIEL *Origen:Hebreo;    *Significado:León de Dios 
+ARISTIDES *Origen:Griego;    *Significado:Hijo del mejor 
+ARMANDO *Origen:Germano;    *Significado:Conductor de huestes 
+ARNOLDO *Origen:Germano;    *Significado:Fuerte como un águila 
+ARTURO *Origen:Celta;    *Significado:Alto, noble. Centinela de la osa mayor 
+ASUNCION *Origen:Latino;    *Significado:Elevación 
+ATANASIO *Origen:Griego;    *Significado:Inmortal 
+AUGUSTO *Origen:Latino;    *Significado:Imperial 
+AURELIO *Origen:Latino;    *Significado:Dorado
+AURELIA *Origen:Latino;    *Significado:Dorado 
+AURORA *Origen:Latino;    *Significado:Amanecer 
+AUXILIADORA *Origen:Latino;    *Significado:Que ayuda en situaciones difíciles 
+AXEL *Origen:Germano;    *Significado:Recompensa del cielo 
+AZUCENA *Origen:Sin_datos;    *Significado:Sin_datos
+BALDOMERO *Origen:Germano;    *Significado:Audaz, insigne 
+BALTASAR *Origen:Caldeo;    *Significado:Dueño del tesoro 
+BÁRBARA *Origen:Griego;    *Significado:Extranjera 
+BARTOLOMÉ *Origen:Hebreo;    *Significado:Anciano 
+BASILIO *Origen:Griego;    *Significado:Majestuosamente, regiamente 
+BAUTISTA *Origen:Griego;    *Significado:Bautizador 
+BEATRIZ *Origen:Latino;    *Significado:Que hace feliz 
+BELEN *Origen:Hebreo;    *Significado:Casa del pan 
+BELINDA *Origen:Latino;    *Significado:Graciosa 
+BELTRAN *Origen:Alemán;    *Significado:Audaz, insigne 
+BENIGNO *Origen:Latino;    *Significado:Bueno 
+BENITO *Origen:Latino;    *Significado:Bendito 
+BENJAMIN *Origen:Hebreo;    *Significado:Hijo favorito (de la mano derecha) 
+BERENICE *Origen:Griego;    *Significado:Ella da la victoria 
+BERNABE *Origen:Hebreo;    *Significado:Hijo de la profecía 
+BERNARDINO *Origen:Germano;    *Significado:Oso fuerte
+BERNARDINA *Origen:Germano;    *Significado:Oso fuerte 
+BERNARDO *Origen:Germano;    *Significado:Audaz como un oso 
+BERTA *Origen:Germano;    *Significado:Brillante 
+BIANCA *Origen:Germano;    *Significado:Blanca 
+BIBIANA *Origen:Latino;    *Significado:Vital 
+BLANCA *Origen:Germano;    *Significado:Pura, brillante 
+BLAS *Origen:Griego;    *Significado:Tartamudo 
+BRENDA *Origen:Anglosajón;    *Significado:Cuervo 
+BONIFACIO *Origen:Latino;    *Significado:Bienhechor 
+BORIS *Origen:Ruso;    *Significado:Pelea 
+BRIGIDA *Origen:Celta;    *Significado:Fuerza 
+BRUNILDA *Origen:Germano;    *Significado:Doncella oscura de la batalla 
+BRUNO *Origen:Germano;    *Significado:Oscuro 
+CALIXTO *Origen:Griego;    *Significado:De gran belleza 
+CAMELIA *Origen:Latino;    *Significado:Taza 
+CAMILA *Origen:Latino;    *Significado:La que espera el sacrificio 
+CANDIDO *Origen:Latino;    *Significado:Blanco 
+CARIDAD *Origen:Latino;    *Significado:Amor 
+CARINA *Origen:Griego;    *Significado:Puro, inocente 
+CARLOS *Origen:Germano;    *Significado:Fuerte, viril 
+CARLA *Origen:Germano;    *Significado:Fuerte, viril
+CAROLA *Origen:Germano;    *Significado:Fuerte
+CAROLINA *Origen:Germano;    *Significado:Fuerte 
+CARMELO *Origen:Hebreo;    *Significado:Viña 
+CARMEN *Origen:Latino;    *Significado:Verso, cantar. Encantadora 
+CAROLINA *Origen:Germano;    *Significado:Relativa a lo viril 
+CASILDA *Origen:Árabe;    *Significado:Cantarina 
+CASIMIRO *Origen:Eslavo;    *Significado:Mira por la paz 
+CATALINA *Origen:Griego;    *Significado:Pura 
+CAYETANO *Origen:Latino;    *Significado:Natural de Gaeta (Itália) 
+CECILIA *Origen:Latino;    *Significado:Justa. Ciega (como la justicia) 
+CELESTINA *Origen:Latino;    *Significado:Celestial 
+CELIA *Origen:Latino;    *Significado:Avreviatura de Celestina
+CELINA *Origen:Latino;    *Significado:Abreviatura de Celestina 
+CRISANTO *Origen:Griego;    *Significado:Flor de oro 
+CRISTIAN *Origen:Griego;    *Significado:Hombre de Cristo 
+CRISTINA *Origen:Latino;    *Significado:La que sigue a Cristo 
+CELSO *Origen:Latino;    *Significado:Excelso 
+CESAR *Origen:Latino;    *Significado:Adorno del cabello 
+CESAREO *Origen:Latino;    *Significado:Nacido por cesárea 
+CINTIA *Origen:Griego;    *Significado:Del lugar de Kinthos 
+CIPRIANO *Origen:Latino;    *Significado:Delgado, transparente 
+CIRILO *Origen:Griego;    *Significado:Señorial 
+CIRO *Origen:Persa;    *Significado:El sol 
+CLARA *Origen:Latino;    *Significado:Brillante, ilustrada 
+CLAUDIO *Origen:Latino;    *Significado:Cojo
+CLAUDIA *Origen:Latino;    *Significado:Cojo 
+CLEMENTE *Origen:Latino;    *Significado:Misericordioso, suave 
+CLEOPATRA *Origen:Griego;    *Significado:Gloria de su tierra 
+CLOTILDE *Origen:Germano;    *Significado:Famosa en la batalla 
+CONCEPCIÓN *Origen:Latino;    *Significado:Que concibe 
+CONRADO *Origen:Germano;    *Significado:Audaz, consejero, sabio 
+CONSTANCIO *Origen:Latino;    *Significado:Firme. Fidedigno 
+CONSTANTINO *Origen:Latino;    *Significado:Firme 
+CONSUELO *Origen:Latino;    *Significado:Advertencia 
+CORA *Origen:Griego;    *Significado:Doncella 
+CORDELIA *Origen:Celta;    *Significado:Joya del mar 
+CORNELIO *Origen:Latino;    *Significado:Coronado 
+COSME *Origen:Griego;    *Significado:Adornado 
+CRISTOBAL *Origen:Griego;    *Significado:Que lleva a Cristo 
+CRISOSTOMO *Origen:Griego;    *Significado:Boca de oro 
+CRUZ *Origen:Latino;    *Significado:Cruz 
+DAGOBERTO *Origen:Germano;    *Significado:El que lleva la espada 
+DANA *Origen:Hebreo;    *Significado:Justicia 
+DANIEL *Origen:Hebreo;    *Significado:Dios es juez 
+DARIO *Origen:Persa;    *Significado:Preservador 
+DAVID *Origen:Hebreo;    *Significado:Amado 
+DEBORA *Origen:Hebreo;    *Significado:Abeja, industriosa 
+DELIA *Origen:Griego;    *Significado:Casta 
+DELMIRO *Origen:Germano;    *Significado:De nobleza insigne 
+DEMETRIO *Origen:Griego;    *Significado:Sagrado para la tierra 
+DIANA *Origen:Latino;    *Significado:Diosa de la Luna 
+DIEGO *Origen:Hebreo;    *Significado:Suplantador 
+DINA *Origen:Hebreo;    *Significado:Vengada 
+DIONISIO *Origen:Griego;    *Significado:Que pertenece a Dionisos (Baco) 
+DOLORES *Origen:Latino;    *Significado:Pesares 
+DOMINGO *Origen:Latino;    *Significado:Hijo del Señor
+DOMINICO *Origen:Latino;    *Significado:Hijo del Señor 
+DONATO *Origen:Latino;    *Significado:Regalo de Dios 
+DORA *Origen:Griego;    *Significado:Regalo de Dios 
+DULCINEA *Origen:Latino;    *Significado:Dulce 
+EDGARDO *Origen:Germano;    *Significado:Justo, protector 
+EDITH *Origen:Germano;    *Significado:Rico don 
+EDMUNDO *Origen:Germano;    *Significado:Paz bendita 
+EDUARDO *Origen:Germano;    *Significado:Guardián de las mercancías 
+EFRAIN *Origen:Hebreo;    *Significado:Fructífero 
+EFREN *Origen:Hebreo;    *Significado:Fructífero 
+ELENA *Origen:Griego;    *Significado:Luz
+ELEONOR *Origen:Griego;    *Significado:Luz 
+ELIAS *Origen:Hebreo;    *Significado:El Señor es Dios 
+ELISA *Origen:Hebreo;    *Significado:Dios del Juramento 
+ELISABETH *Origen:Hebreo;    *Significado:Consagrada a Dios 
+ELOISA *Origen:Germano;    *Significado:combatiente gloriosa 
+ELOY *Origen:Francés;    *Significado:Elegido 
+ELSA *Origen:Germano;    *Significado:Regocijo 
+ELVIRA *Origen:Latino;    *Significado:Noble, bravía 
+EMILIA *Origen:Griego;    *Significado:Graciosa
+EMILIO *Origen:Griego;    *Significado:Gracioso 
+EMA *Origen:Griego;    *Significado:Que tiene gracia 
+EMANUEL *Origen:Hebreo;    *Significado:Dios con nosotros 
+EMILIO *Origen:Griego;    *Significado:Amable 
+ENCARNACIÓN *Origen:Latino;    *Significado:Hacerse carne 
+ENGRACIA *Origen:Latino;    *Significado:Favorecida por Dios 
+ENRIQUE *Origen:Germano;    *Significado:Poderoso por su linaje 
+ERASMO *Origen:Griego;    *Significado:Que merece amor 
+ERICO *Origen:Germano;    *Significado:Heroico
+ERIC *Origen:Germano;    *Significado:Heroico
+ERICA *Origen:Germano;    *Significado:Heroico 
+ERNESTO *Origen:Germano;    *Significado:Serio. Celoso 
+ESMERALDA *Origen:Latino;    *Significado:La muy admirada 
+ESPERANZA *Origen:Latino;    *Significado:Deseo 
+ESTEBAN *Origen:Griego;    *Significado:Merecidamente coronado 
+ESTEFANIA *Origen:Griego;    *Significado:Merecidamente coronada 
+ESTELA *Origen:Latín;    *Significado:Estrella 
+ESTER *Origen:Persa;    *Significado:Estrella buena fortuna 
+ETEL *Origen:Germano;    *Significado:Noble 
+EUCLIDES *Origen:Griego;    *Significado:De buena reputación 
+EUDOSIA *Origen:Griego;    *Significado:De la que bien se piensa
+EUDOXIO *Origen:Griego;    *Significado:Del que bien se piensa
+EUDOXIA *Origen:Griego;    *Significado:De la que bien se piensa 
+EUFEMIO *Origen:Griego;    *Significado:De buena palabra 
+EUFEMIA *Origen:Griego;    *Significado:De buena palabra 
+EUFRASIO *Origen:Griego;    *Significado:Regocijante 
+EUFRASIA *Origen:Griego;    *Significado:Regocijante 
+EUGENIO *Origen:Griego;    *Significado:Bien nacido 
+EUGENIA *Origen:Griego;    *Significado:Bien nacida 
+EULALIO *Origen:Griego;    *Significado:Bien hablado 
+EULALIA *Origen:Griego;    *Significado:Bien hablada 
+EUSEBIO *Origen:Griego;    *Significado:Piadoso 
+EUSTAQUIO *Origen:Griego;    *Significado:Sano, firme 
+EVA *Origen:Hebreo;    *Significado:Vida 
+EVANGELINA *Origen:Griego;    *Significado:Que trae buenas nuevas 
+EVARISTO *Origen:Griego;    *Significado:Óptimo 
+EZEQUIEL *Origen:Hebreo;    *Significado:El Señor es mi fuerza 
+FABIAN *Origen:Latino;    *Significado:Granjero 
+FABIOLA *Origen:Latino;    *Significado:Cultivadora de habas 
+FANNY *Origen:Germano;    *Significado:Libre 
+FATIMA *Origen:Árabe;    *Significado:Doncella, joven 
+FAUSTINO *Origen:Latino;    *Significado:Afortunado 
+FAUSTO *Origen:Latino;    *Significado:Afortunado 
+FEDERICO *Origen:Germano;    *Significado:Que gobierna en paz 
+FEDOR *Origen:Griego;    *Significado:Don de Dios 
+FELIX *Origen:Latino;    *Significado:Feliz 
+FELIPE *Origen:Griego;    *Significado:Amante de los caballos 
+FERMIN *Origen:Latino;    *Significado:Fuerte y firme 
+FERNANDO *Origen:Germano;    *Significado:Valiente pero pacífico 
+FIDEL *Origen:Latino;    *Significado:Fiel 
+FILIBERTO *Origen:Griego;    *Significado:Inteligente 
+FILOMENO *Origen:Griego;    *Significado:Amante del canto 
+FLAVIO *Origen:Latino;    *Significado:De cabellos rubios 
+FLORA *Origen:Latino;    *Significado:Flor, Diosa de las flores 
+FLORENCIO *Origen:Latino;    *Significado:Florido 
+FLORENCIA *Origen:Latino;    *Significado:Florida 
+FLORIDA *Origen:Latino;    *Significado:Colorida 
+FLORINDA *Origen:Latino;    *Significado:Colorida 
+FLORIÁN *Origen:Latino;    *Significado:Floreciente, próspero 
+FRANCISCO *Origen:Germano;    *Significado:Libre 
+FRANCO *Origen:Germano;    *Significado:Libre 
+FRIDA *Origen:Germano;    *Significado:Pacífica 
+FROILAN *Origen:Germano;    *Significado:Compañero 
+FULVIO *Origen:Latino;    *Significado:Dorado  
+GABRIEL *Origen:Hebreo;    *Significado:Fuerza de Dios 
+GALATEA *Origen:Griego;    *Significado:Blanca como la leche 
+GASPAR *Origen:Persa;    *Significado:Tesorero 
+GEDEÓN *Origen:Hebreo;    *Significado:De la colina 
+GENOVEVA *Origen:Celta;    *Significado:Espuma de mar 
+GERARDO *Origen:Germano;    *Significado:Hábil en armas 
+GERMAN *Origen:Latino;    *Significado:Alemán 
+GERTRUDIS *Origen:Germano;    *Significado:Veraz 
+GILBERTO *Origen:Germano;    *Significado:Sirviente brillante 
+GLADIS *Origen:Celta;    *Significado:Que gobierna un gran territorio 
+GLORIA *Origen:Latino;    *Significado:Fama 
+GODOFREDO *Origen:Germano;    *Significado:Paz de Dios 
+GRACIA *Origen:Latino;    *Significado:Gracia 
+GRACIELA *Origen:Latino;    *Significado:Agraciada 
+GREGORIO *Origen:Griego;    *Significado:Vigilante 
+GRISEL *Origen:Germano;    *Significado:De ojos grises 
+GRISELDA *Origen:Germano;    *Significado:De ojos grises 
+GUALTERIO *Origen:Germano;    *Significado:Guerrero poderoso 
+GUIDO *Origen:Latino;    *Significado:Guía, conductor 
+GUILLERMO *Origen:Germano;    *Significado:Casco de oro 
+GUSTAVO *Origen:Germano;    *Significado:Báculo del godo 
+HAROLDO *Origen:Germano;    *Significado:General 
+HAYDEE *Origen:Griego;    *Significado:Acariciada 
+HEBE *Origen:Griego;    *Significado:Juventud 
+HELENA *Origen:Griego;    *Significado:Antorcha 
+HELIDA *Origen:Hebreo;    *Significado:De Dios 
+HELI *Origen:Hebreo;    *Significado:De Dios 
+HECTOR *Origen:Griego;    *Significado:Prudente defensor 
+HERIBERTO *Origen:Germano;    *Significado:De ejército distinguido 
+HERIBERTA *Origen:Germano;    *Significado:De ejército distinguido 
+HERMELANDO *Origen:Germano;    *Significado:De antigua tribu germánica 
+HERMELINDA *Origen:Germano;    *Significado:De antigua tribu germánica 
+HERMINIO *Origen:Germano;    *Significado:Enérgica 
+HERMINIA *Origen:Germano;    *Significado:Enérgica 
+HERNÁN *Origen:Germano;    *Significado:Atrevido, bravo 
+HIGINIO *Origen:Griego;    *Significado:Vigoroso
+HIGINIA *Origen:Griego;    *Significado:Vigorosa 
+HILARIO *Origen:Latino;    *Significado:Alegre, risueño 
+HILARIA *Origen:Latino;    *Significado:Alegre, risueña 
+HILDA *Origen:Germano;    *Significado:Poderosa en la batalla 
+HIPOLITO *Origen:Griego;    *Significado:Caballo de piedra 
+HOMERO *Origen:Griego;    *Significado:Prenda, fianza, rehén 
+HONORIO *Origen:Latino;    *Significado:Honorable 
+HORACIO *Origen:Latino;    *Significado:De mirada penetrante 
+HORTENSIO *Origen:Latino;    *Significado:Jardinero 
+HUGO *Origen:Germano;    *Significado:Altivo, inteligente 
+HUBERTO *Origen:Germano;    *Significado:Inteligencia luminosa 
+HUMBERTO *Origen:Germano;    *Significado:Muy brillante  
+IDA *Origen:Griego;    *Significado:Feliz 
+IDEFONSO *Origen:Germano;    *Significado:Luchador 
+IGNACIO *Origen:Griego;    *Significado:Orgulloso 
+IMANOL *Origen:Vasco;    *Significado:Forma de Manuel y Emanuel (hebreo). Dios con nosotros 
+IMELDA *Origen:Germano;    *Significado:Poderosa en la lucha 
+IÑIGO *Origen:Griego;    *Significado:Orgulloso 
+INDALECIO *Origen:Vasco;    *Significado:Fuerza 
+INES *Origen:Griego;    *Significado:Pura, casta 
+INGRID *Origen:Germano;    *Significado:De la tribu de los ingviones 
+IRENE *Origen:Griego;    *Significado:Paz 
+IRIS *Origen:Griego;    *Significado:Arco Iris 
+IRMA *Origen:Germano;    *Significado:Noble doncella 
+ISAAC *Origen:Hebreo;    *Significado:El que ríe 
+ISABEL *Origen:Hebreo;    *Significado:Dios del Juramento 
+ISADORA *Origen:Griego;    *Significado:Don equitativo 
+ISIDORO *Origen:Griego;    *Significado:Don equitativo 
+ISAIAS *Origen:Hebreo;    *Significado:Salvación del Señor 
+ISRAEL *Origen:Hebreo;    *Significado:Príncipe de Dios 
+IVAN *Origen:Hebreo;    *Significado:Dios es misericordioso 
+IVANA *Origen:Hebreo;    *Significado:Dios es misericordioso 
+IVONNE *Origen:Germano;    *Significado:Gloriosa 
+JACINTO *Origen:Griego;    *Significado:Flor 
+JACOBO *Origen:Hebreo;    *Significado:Suplantador 
+JAQUELINE *Origen:Francés;    *Significado:Que se agarra el talón 
+JAIRO *Origen:Hebreo;    *Significado:Dios quiera lucir 
+JAVIER *Origen:Vasco;    *Significado:Casa nueva 
+JAZMIN *Origen:Persa;    *Significado:Flor del mismo nombre 
+JAIME *Origen:Hebreo;    *Significado:Suplantador 
+JENNIFER *Origen:Galés;    *Significado:Blanca como la espuma de mar 
+JEREMIAS *Origen:Hebreo;    *Significado:Elevado por el Señor- Exaltación del Señor 
+JERÓNIMO *Origen:Griego;    *Significado:Sagrado 
+JESSICA *Origen:Escocés;    *Significado:Forma escocesa de Juana 
+JESUS *Origen:Hebreo;    *Significado:Diminutivo de Jehová 
+JOAQUIN *Origen:Hebreo;    *Significado:El Señor juzgará 
+JOB *Origen:Hebreo;    *Significado:Perseguido 
+JONATAN *Origen:Hebreo;    *Significado:Don de Dios 
+JONHATAN *Origen:Hebreo;    *Significado:Don de Dios 
+JORGE *Origen:Griego;    *Significado:Agricultor 
+JOSE *Origen:Hebreo;    *Significado:Aumentará (hijos) 
+JOSEFA *Origen:Hebreo;    *Significado:Dios proveerá (hijos) 
+JOSEFINA *Origen:Hebreo;    *Significado:Dios dará 
+JONAS *Origen:Hebreo;    *Significado:Paloma 
+JOSUE *Origen:Hebreo;    *Significado:El Señor es la salvación 
+JUAN *Origen:Latino;    *Significado:Don gracioso de Dios 
+JUANA *Origen:Latino;    *Significado:Don de Dios 
+JUDA *Origen:Hebreo;    *Significado:Alabado 
+JUDIT *Origen:Hebreo;    *Significado:Alabada 
+JUDITH *Origen:Hebreo;    *Significado:Alabada 
+JULIA *Origen:Latino;    *Significado:De cabello suave 
+JULIANA *Origen:Latino;    *Significado:De cabello suave 
+JULIO *Origen:Latino;    *Significado:De mucho pelo. Barbudo 
+JULIAN *Origen:Latino;    *Significado:De mucho pelo. Barbudo 
+JUSTINIANO *Origen:Latino;    *Significado:Recto 
+JUSTO *Origen:Latino;    *Significado:Recto 
+KAREN *Origen:Danés;    *Significado:Pura, inmaculada (del griego Catalina) 
+KATIA *Origen:Ruso;    *Significado:Pura, inmaculada (del griego Catalina) 
+KEVIN *Origen:Irlandés;    *Significado:Bonito nacimiento 
+LAMBERTO *Origen:Germano;    *Significado:Oveja bravía 
+LAURA *Origen:Latino;    *Significado:Laurel (signo del triunfo) 
+LAZARO *Origen:Hebreo;    *Significado:Ayuda de Dios 
+LEANDRO *Origen:Griego;    *Significado:Célebre 
+LEON *Origen:Latino;    *Significado:León 
+LEONARDO *Origen:Germano;    *Significado:Fuerte como un león 
+LEÓNIDAS *Origen:Griego;    *Significado:Como el león 
+LEONOR *Origen:Griego;    *Significado:Luz 
+LEONORA *Origen:Griego;    *Significado:Luz 
+LEOPOLDO *Origen:Germano;    *Significado:Príncipe del pueblo, fuerte y amado 
+LETICIA *Origen:Latino;    *Significado:Felicidad 
+LIA *Origen:Hebreo;    *Significado:Lánguida 
+LIDA *Origen:Eslavo;    *Significado:Amada del pueblo 
+LIDIA *Origen:Griego;    *Significado:Nacido en Lydia (Asia Menor) 
+LYDIA *Origen:Griego;    *Significado:Nacido en Lydia (Asia Menor) 
+LILIANA *Origen:Latino;    *Significado:Lirio (símbolo de pureza) 
+LINA *Origen:Germano;    *Significado:Diminutivo de Carola - Fuerte 
+LINDA *Origen:Latino;    *Significado:Graciosa 
+LORENZO *Origen:Latino;    *Significado:Coronado de laurel 
+LUCAS *Origen:Griego;    *Significado:Luminoso (forma griega de Lucio) 
+LUCIA *Origen:Latino;    *Significado:Luminoso 
+LUCIANO *Origen:Latino;    *Significado:Luminoso
+LUCIO *Origen:Latino;    *Significado:Luminoso 
+LUCRECIA *Origen:Latino;    *Significado:Afortunada 
+LUIS *Origen:Germano;    *Significado:Defensor del pueblo 
+MABEL *Origen:Celta;    *Significado:Alegre 
+MACARENA *Origen:Sevillano;    *Significado:Alusivo al barrio del mismo nombre 
+MAGALI *Origen:Provenzal;    *Significado:Perla 
+MAGDALENA *Origen:Hebreo;    *Significado:Torre, vigilante 
+MAITE *Origen:Vasco;    *Significado:Encarnación 
+MALVINA *Origen:Celta;    *Significado:Criada 
+MANUEL *Origen:Hebreo;    *Significado:Dios con nosotros 
+MARCELO *Origen:Latino;    *Significado:Guerrero 
+MARCOS *Origen:Hebreo;    *Significado:Amargo 
+MARGARITA *Origen:Griego;    *Significado:Perla 
+MARIA *Origen:Hebreo;    *Significado:Señora 
+MARIANA *Origen:Hebreo;    *Significado:Señor en la gracia de Dios 
+MARTA *Origen:Hebreo;    *Significado:Afligida 
+MARTIN *Origen:Latino;    *Significado:Guerrero 
+MATEO *Origen:Hebreo;    *Significado:Don del Señor
+MATIAS *Origen:Hebreo;    *Significado:Don del Señor 
+MATILDE *Origen:Germano;    *Significado:Poderosa en la batalla 
+MAURICIO *Origen:Latino;    *Significado:Moro, de color oscuro 
+MAURO *Origen:Latino;    *Significado:Moro, de color oscuro 
+MAXIMILIANO *Origen:Latino;    *Significado:De los más grandes 
+MAXIMO *Origen:Latino;    *Significado:De los más grandes 
+MIGUEL *Origen:Hebreo;    *Significado:¿Quién es como Dios? 
+MINA *Origen:Latino;    *Significado:Pequeña 
+MIRIAM *Origen:Hebreo;    *Significado:Rebelión 
+MIRTA *Origen:Griego;    *Significado:Mirto (Símbolo de la belleza) 
+MOISES *Origen:Hebreo;    *Significado:Salvado de las aguas 
+MÓNICA *Origen:Griego;    *Significado:Solitaria 
+NAPOLEÓN *Origen:Griego;    *Significado:León de la nueva ciudad 
+NARCISO *Origen:Griego;    *Significado:Hermoso 
+NATALIO *Origen:Latino;    *Significado:Recién nacido 
+NATAN *Origen:Hebreo;    *Significado:Don de Dios 
+NAUM *Origen:Hebreo;    *Significado:Confortador 
+NELIDA *Origen:Griego;    *Significado:Luz (variante de Elena) 
+NESTOR *Origen:Griego;    *Significado:El que recuerda 
+NICOLÁS *Origen:Griego;    *Significado:Conquistador 
+NIDIA *Origen:Latino;    *Significado:Ave recién salida del nido 
+NOE *Origen:Hebreo;    *Significado:Descanso 
+NORMA *Origen:Latino;    *Significado:Modelo, regla 
+NURIA *Origen:Latino;    *Significado:Advocación catalana a la Virgen María 
+OCTAVIO *Origen:Latino;    *Significado:Octavo 
+OFELIA *Origen:Griego;    *Significado:Serpiente 
+OLGA *Origen:Germano;    *Significado:Sagrada 
+OLIMPIA *Origen:Griego;    *Significado:Celestial 
+OLIVERIO *Origen:Latino;    *Significado:El que porta la rama de olivo 
+OLIVIA *Origen:Latino;    *Significado:El olivo (signo de paz) 
+OMAR *Origen:Árabe;    *Significado:Mejor 
+ORLANDO *Origen:Italiano;    *Significado:Fama del país (Forma italiana de Rolando) 
+OSCAR *Origen:Celta;    *Significado:Guerrero saltarín 
+OSVALDO *Origen:Germano;    *Significado:Regidor divino 
+OTON *Origen:Germano;    *Significado:Montaña 
+PABLO *Origen:Latino;    *Significado:Pequeño 
+PAOLO *Origen:Latino;    *Significado:Pequeño 
+PANFILO *Origen:Griego;    *Significado:Amigo de todos 
+PALOMA *Origen:Latino;    *Significado:Paloma 
+PASCUAL *Origen:Latino;    *Significado:De las Pascuas 
+PATRICIO *Origen:Latino;    *Significado:Noble 
+PAULA *Origen:Latino;    *Significado:Pequeña 
+PAOLA *Origen:Latino;    *Significado:Pequeña 
+PAULINO *Origen:Griego;    *Significado:El más pequeño 
+PAULINA *Origen:Griego;    *Significado:La más pequeña 
+PAZ *Origen:Latino;    *Significado:Se usa especialmente como advocación mariana 
+PEDRO *Origen:Griego;    *Significado:Roca 
+PENELOPE *Origen:Griego;    *Significado:Aumenta lo tejido 
+PERLA *Origen:Latino;    *Significado:Perla (Símbolo de salud) 
+PILAR *Origen:Latino;    *Significado:Alta, fuerte 
+PIEDAD *Origen:Latino;    *Significado:Devoción 
+PIO *Origen:Latino;    *Significado:Devoto 
+PIA *Origen:Latino;    *Significado:Devota 
+PRISCILA *Origen:Latino;    *Significado:Antigua, venerable 
+PRUDENCIA *Origen:Latino;    *Significado:Prudencia (virtud de ser prudente) 
+PURA *Origen:Latino;    *Significado:Sin mancha  
+RAFAEL *Origen:Hebreo;    *Significado:Dios ha curado 
+RAIMUNDO *Origen:Germano;    *Significado:Protección sabia 
+RAMIRO *Origen:Germano;    *Significado:Poderoso en la guerra 
+RAMONA *Origen:Germano;    *Significado:Protectora sensata 
+RAMON *Origen:Germano;    *Significado:Protector sensato 
+RAQUEL *Origen:Hebreo;    *Significado:Oveja del Señor 
+RAUL *Origen:Francés;    *Significado:Guerrero atrevido 
+REBECA *Origen:Hebreo;    *Significado:Lazo corredizo, trampa 
+REINA *Origen:Latino;    *Significado:Reina 
+REINALDO *Origen:Germano;    *Significado:Juez poderoso 
+REGINA *Origen:Latino;    *Significado:Reina 
+REMEDIOS *Origen:Latino;    *Significado:Alivio 
+RENATO *Origen:Latino;    *Significado:Renacido 
+RENE *Origen:Latino;    *Significado:Renacido 
+RICARDO *Origen:Germano;    *Significado:Guerrero temerario 
+RITA *Origen:Latino;    *Significado:Ceremoniosa 
+ROBERTO *Origen:Germano;    *Significado:De fama brillante 
+ROCIO *Origen:Latino;    *Significado:Lágrimas de flor 
+RODOLFO *Origen:Germano;    *Significado:Lobo de fama 
+RODRIGO *Origen:Germano;    *Significado:Rico en fama 
+ROGELIO *Origen:Germano;    *Significado:Lanza de fama 
+ROLANDO *Origen:Germano;    *Significado:Fama del país 
+ROLAN *Origen:Germano;    *Significado:Fama del país 
+ROMAN *Origen:Latino;    *Significado:De Rumania 
+ROMEO *Origen:Latino;    *Significado:Buen hombre de Roma 
+ROMILDA *Origen:Germano;    *Significado:Guerrera famosa 
+ROMILDO *Origen:Germano;    *Significado:Guerrero famoso 
+RONALDO *Origen:Germano;    *Significado:Gobernante glorioso 
+ROQUE *Origen:Persa;    *Significado:Elevado 
+ROSA *Origen:Latino;    *Significado:La rosa 
+ROSALIA *Origen:Latino;    *Significado:Rosa pequeña 
+ROSAMUNDA *Origen:Germano;    *Significado:Guardia famosa 
+ROSANA *Origen:Latino;    *Significado:Como una rosa 
+ROSARIO *Origen:Latino;    *Significado:Jardín de rosas 
+ROSENDO *Origen:Germano;    *Significado:Soldado 
+ROXANA *Origen:Persa;    *Significado:La brillante 
+RUBEN *Origen:Hebreo;    *Significado:¡He aquí un hijo! 
+RUFINO *Origen:Latino;    *Significado:Rojo 
+RUPERTO *Origen:Germano;    *Significado:De fama brillante 
+RUT *Origen:Hebreo;    *Significado:Amistad, misericordia 
+RUTH *Origen:Hebreo;    *Significado:Amistad, misericordia 
+SABINA *Origen:Latino;    *Significado:Mujer sabina (El pueblo de Italia) 
+SAGRARIO *Origen:Latino;    *Significado:Receptáculo sagrado 
+SALOME *Origen:Hebreo;    *Significado:Pacífica 
+SALOMON *Origen:Hebreo;    *Significado:Pacífico 
+SALVADOR *Origen:Latino;    *Significado:Salvador 
+SAMANTA *Origen:Hebreo;    *Significado:Que escucha 
+SAMUEL *Origen:Hebreo;    *Significado:Oído por Dios 
+SANCHO *Origen:Latino;    *Significado:Santo 
+SANDRA *Origen:Germano;    *Significado:Auxiliar de los hombres 
+SANSON *Origen:Hebreo;    *Significado:Como el sol 
+SANTIAGO *Origen:Latino;    *Significado:Sancti Yago (Del hebreo Jacobo: Suplantador) 
+SARA *Origen:Hebreo;    *Significado:Princesa 
+SAUL *Origen:Hebreo;    *Significado:Llamado 
+SEBASTIAN *Origen:Griego;    *Significado:Venerable, augusto 
+SEGISMUNDO *Origen:Germano;    *Significado:Vencedor 
+SERAFIN *Origen:Hebreo;    *Significado:Ángel de fuego 
+SERENA *Origen:Latino;    *Significado:Tranquila 
+SERGIO *Origen:Latino;    *Significado:De Serbia 
+SIGFRIDO *Origen:Germano;    *Significado:Conquistador de la paz 
+SERVANDO *Origen:Latino;    *Significado:Observa, cumple, guarda 
+SHEILA *Origen:Irlandés;    *Significado:Celestial. Antigua adaptación de Celia 
+SILVAN *Origen:Latino;    *Significado:Del bosque 
+SILVANO *Origen:Latino;    *Significado:Del bosque 
+SILVESTRE *Origen:Latino;    *Significado:Rústico 
+SILVIO *Origen:Latino;    *Significado:Del bosque 
+SILVIA *Origen:Latino;    *Significado:Del bosque 
+SIMON *Origen:Hebreo;    *Significado:El que escucha 
+SIMEON *Origen:Hebreo;    *Significado:El que escucha 
+SIRO *Origen:Persa;    *Significado:Sol 
+SIXTO *Origen:Griego;    *Significado:Adulador 
+SOCORRO *Origen:Latino;    *Significado:Dispuesta a ayudar 
+SOFIA *Origen:Griego;    *Significado:Sabiduría 
+SOL *Origen:Latino;    *Significado:Astro rey 
+SOLANGE *Origen:Francés;    *Significado:Solemne 
+SOLEDAD *Origen:Latino;    *Significado:Sin compañía 
+SORAYA *Origen:Persa;    *Significado:Excelente 
+SONIA *Origen:Griego;    *Significado:Sabia pensadora 
+SUSANA *Origen:Hebreo;    *Significado:Lirio 
+SUYAY *Origen:Quechua;    *Significado:Esperar, aguardar 
+TADEO *Origen:Hebreo;    *Significado:Oración de gracias 
+TAMAR *Origen:Hebreo;    *Significado:Palmera 
+TAMARA *Origen:Hebreo;    *Significado:Palmera 
+TANIA *Origen:Ruso;    *Significado:Que procede de Tacio, legendario rey de los sabinos 
+TATIANA *Origen:Latino;    *Significado:Defensora 
+TELMA *Origen:Griego;    *Significado:Favorita, niña mimada 
+TEOBALDO *Origen:Germano;    *Significado:Príncipe del pueblo 
+TEODORO *Origen:Griego;    *Significado:Don de Dios 
+TEODORICO *Origen:Germano;    *Significado:Regla del pueblo 
+TEODOSIO *Origen:Griego;    *Significado:Dado divinamente 
+TEOFILO *Origen:Griego;    *Significado:Amante de Dios 
+TERESA *Origen:Griego;    *Significado:Que lleva espigas de trigo 
+TIRSO *Origen:Latino;    *Significado:Rama de vid 
+TITO *Origen:Latino;    *Significado:Defensor 
+TIMOTEO *Origen:Griego;    *Significado:Que honra a Dios 
+TOBIAS *Origen:Hebreo;    *Significado:El Señor es bueno 
+TOMAS *Origen:Hebreo;    *Significado:Mellizo, gemelo 
+TRINIDAD *Origen:Latino;    *Significado:Tres en uno 
+TRISTÁN *Origen:Escocés;    *Significado:Pacto, consuelo 
+ULISES *Origen:Griego;    *Significado:Colérico, iracundo 
+ULRICO *Origen:Germano;    *Significado:Noble señor 
+URBANO *Origen:Latino;    *Significado:Dios del hogar 
+URIEL *Origen:Hebreo;    *Significado:Luz de Dios 
+URSULA *Origen:Latino;    *Significado:Osa pequeña 
+VALENTIN *Origen:Latino;    *Significado:Fuerte, valeroso 
+VALERIO *Origen:Latino;    *Significado:Sano 
+VALERIA *Origen:Latino;    *Significado:Sana 
+VANESA *Origen:Creado;    *Significado:por Jonathan Swift Del personaje Esther Vanhomringh 
+VENTURA *Origen:Latino;    *Significado:Afortunado 
+VELASCO *Origen:Germano;    *Significado:Cuervo 
+VERA *Origen:Latino;    *Significado:Verdadera 
+VERONICA *Origen:Latino;    *Significado:Imagen de la verdad 
+VICENTE *Origen:Latino;    *Significado:Conquistador 
+VICTOR *Origen:Latino;    *Significado:Vencedor 
+VICTORIA *Origen:Latino;    *Significado:Vencedora 
+VICTORIANO *Origen:Latino;    *Significado:Vencedor 
+VIDA *Origen:Latino;    *Significado:Vacía 
+VILMA *Origen:Germano;    *Significado:Protectora 
+VIOLETA *Origen:Latino;    *Significado:Violeta (Símbolo de modestia) 
+VIRGILIO *Origen:Latino;    *Significado:Floreciente 
+VIRGINIA *Origen:Latino;    *Significado:Virgen 
+VIVIANA *Origen:Latino;    *Significado:Vivaz, animada 
+VLADIMIR *Origen:Eslavo;    *Significado:Gloria del príncipe 
+WALTER *Origen:Germano;    *Significado:Caudillo del Ejército 
+WENCESLAO *Origen:Checo;    *Significado:El más glorioso 
+WILFREDO *Origen:Germano;    *Significado:Pacificador decidido  
+YAGO *Origen:Hebreo;    *Significado:Suplantador
+YERAY *Origen:Canario;    *Significado:Grande 
+YOLANDA *Origen:Germano;    *Significado:La más justa 
+ZACARIAS *Origen:Hebreo;    *Significado:El Señor ha recordado 
+ZENOBIA *Origen:Árabe;    *Significado:Orgullo de su padre 
+ZOE *Origen:Griego;    *Significado:Vida 
+ZITA *Origen:Toscano;    *Significado:Muchacha alegre 
+ZORAIDA *Origen:Árabe;    *Significado:Mujer cautivadora 
+ZULEMA *Origen:Hebreo;    *Significado:Amante de la paz

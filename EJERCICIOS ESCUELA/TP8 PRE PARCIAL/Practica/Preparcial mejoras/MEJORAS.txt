@@ -1,0 +1,598 @@
+AARON          Hebreo         Elevado, alto, montañoso .                                                                          
+ABEL           Hebreo         Aliento, respiración,vanidad .                                                                      
+ABELARDO       Germano        Noble, Osado, temerario .                                                                           
+ABIGAIL        Hebreo         Fuente de alegría .                                                                                 
+ABRAHAM        Hebreo         Padre superior .                                                                                    
+ABRIL          Latino         Apertura .                                                                                          
+ADA            Hebreo         Belleza .                                                                                           
+ADALBERTO      Germano        Que brilla noblemente .                                                                             
+ADAN           Hebreo         Hombre de la tierra .                                                                               
+ADELA          Germano        De noble cuna .                                                                                     
+ADELAIDA       Germano        De noble cuna .                                                                                     
+ADELINA        Germano        De noble cuna .                                                                                     
+ADELMO         Germano        Noble .                                                                                             
+ADOLFO         Germano        Lobo, noble .                                                                                       
+ADRIAN         Latino         De Adria (Del Mar Adriático) .                                                                      
+ADRIANO        Latino         Negro .                                                                                             
+AGATA          Griego         Buena, amable .                                                                                     
+ÁGUEDA         Griego         Buena, amable .                                                                                     
+AGUSTIN        Latino         Perteneciente a Agostoo .                                                                           
+AIDA           Italiano       Conductora .                                                                                        
+AINARA         Vasco          Originario de Vizcaya. Sin datos .                                                                  
+ALAN           Germano        De la tribu de los Alanos .                                                                         
+ALBANO         Latino         Blanco, puro, luminoso .                                                                            
+ALBERTO        Germano        Que brilla con nobleza .                                                                            
+ALCIRA         Árabe          Natural de Algeciras (España) .                                                                     
+ALDO           Germano        Experto .                                                                                           
+ALEJANDRO      Germano        Auxiliar de los hombres.                                                                            
+ALEJANDRA      Germano        Auxiliar de los hombres .                                                                           
+ALEJO          Germano        Arroja el mal .                                                                                     
+ALFONSO        Germano        Estratega .                                                                                         
+ALFREDO        Germano        Consejero .                                                                                         
+ALICIA         Germano        Noble alegría, consuelo .                                                                           
+ALINA          Germano        Amiga noble .                                                                                       
+ALMUDENA       Árabe          La ciudad .                                                                                         
+ALONSO         Germano        Estratega (Variante de Alfonso).                                                                    
+ALVARO         Germano        Atento .                                                                                            
+AMADEO         Latino         Que ama a Dios .                                                                                    
+AMALIA         Germano        Laboriosa .                                                                                         
+AMANCIO        Latino         Amante .                                                                                            
+AMANDA         Latino         Merecedora de amor .                                                                                
+AMARANTO       Griego         Flor eterna .                                                                                       
+AMAYA          Vasco          Principio del fin .                                                                                 
+AMOS           Hebreo         Carga .                                                                                             
+AMBROSIO       Griego         Inmortal, Divino .                                                                                  
+AMELIA         Germano        Afanosa, enérgica .                                                                                 
+AMIRA          Árabe          La princesa .                                                                                       
+AMPARO         Latino         Protectora .                                                                                        
+ANA            Hebreo         Graciosa .                                                                                          
+ANACLETO       Griego         Que invoca auxilio .                                                                                
+ANASTASIO      Griego         Resucitado, resurrección.                                                                           
+ANASTASIA      Griego         Resucitado, resurrección .                                                                          
+ANDER          Vasco          Forma vasca de Andrés (del griego andros: Hombre) .                                                 
+ANDRES         Griego         Viril .                                                                                             
+ANGEL          Griego         Mensajero, angelical.                                                                               
+ÁNGELA         Griego         Mensajero, angelical .                                                                              
+ANGELINA       Griego         Mensajero, angelical.                                                                               
+ANGELICA       Griego         Mensajero, angelical .                                                                              
+ÁNGELES        Griego         Buena, pura, mensajera celeste .                                                                    
+ANIBAL         Fenicio        Gracia de Baal (El Dios) .                                                                          
+ANICETO        Griego         Invicto .                                                                                           
+ANGUSTIAS      Latino         Angosto, difícil .                                                                                  
+ANSELMO        Germano        Guerrero del Señor .                                                                                
+ANTONIO        Latino         Digno de alabanza.                                                                                  
+ANTONIA        Latino         Digno de alabanza .                                                                                 
+ANTONIETA      Latino         Florcita, llena de gracia .                                                                         
+APOLO          Griego         Dios del sol .                                                                                      
+AQUILES        Griego         Consuelo en el dolor .                                                                              
+AQUILINO       Latino         Como el águila .                                                                                    
+ARACELI        Latino         Altar del cielo .                                                                                   
+ARCHIBALDO     Germano        Muy valiente .                                                                                      
+ARIADNA        Griego         De dulce canto .                                                                                    
+ARIEL          Hebreo         León de Dios .                                                                                      
+ARISTIDES      Griego         Hijo del mejor .                                                                                    
+ARMANDO        Germano        Conductor de huestes .                                                                              
+ARNOLDO        Germano        Fuerte como un águila .                                                                             
+ARTURO         Celta          Alto, noble. Centinela de la osa mayor .                                                            
+ASUNCION       Latino         Elevación .                                                                                         
+ATANASIO       Griego         Inmortal .                                                                                          
+AUGUSTO        Latino         Imperial .                                                                                          
+AURELIO        Latino         Dorado.                                                                                             
+AURELIA        Latino         Dorado .                                                                                            
+AURORA         Latino         Amanecer .                                                                                          
+AUXILIADORA    Latino         Que ayuda en situaciones difíciles .                                                                
+AXEL           Germano        Recompensa del cielo .                                                                              
+AZUCENA        Sin_datos      Sin_datos.                                                                                          
+BALDOMERO      Germano        Audaz, insigne .                                                                                    
+BALTASAR       Caldeo         Dueño del tesoro .                                                                                  
+BÁRBARA        Griego         Extranjera .                                                                                        
+BARTOLOMÉ      Hebreo         Anciano .                                                                                           
+BASILIO        Griego         Majestuosamente, regiamente .                                                                       
+BAUTISTA       Griego         Bautizador .                                                                                        
+BEATRIZ        Latino         Que hace feliz .                                                                                    
+BELEN          Hebreo         Casa del pan .                                                                                      
+BELINDA        Latino         Graciosa .                                                                                          
+BELTRAN        Alemán         Audaz, insigne .                                                                                    
+BENIGNO        Latino         Bueno .                                                                                             
+BENITO         Latino         Bendito .                                                                                           
+BENJAMIN       Hebreo         Hijo favorito (de la mano derecha) .                                                                
+BERENICE       Griego         Ella da la victoria .                                                                               
+BERNABE        Hebreo         Hijo de la profecía .                                                                               
+BERNARDINO     Germano        Oso fuerte.                                                                                         
+BERNARDINA     Germano        Oso fuerte .                                                                                        
+BERNARDO       Germano        Audaz como un oso .                                                                                 
+BERTA          Germano        Brillante .                                                                                         
+BIANCA         Germano        Blanca .                                                                                            
+BIBIANA        Latino         Vital .                                                                                             
+BLANCA         Germano        Pura, brillante .                                                                                   
+BLAS           Griego         Tartamudo .                                                                                         
+BRENDA         Anglosajón     Cuervo .                                                                                            
+BONIFACIO      Latino         Bienhechor .                                                                                        
+BORIS          Ruso           Pelea .                                                                                             
+BRIGIDA        Celta          Fuerza .                                                                                            
+BRUNILDA       Germano        Doncella oscura de la batalla .                                                                     
+BRUNO          Germano        Oscuro .                                                                                            
+CALIXTO        Griego         De gran belleza .                                                                                   
+CAMELIA        Latino         Taza .                                                                                              
+CAMILA         Latino         La que espera el sacrificio .                                                                       
+CANDIDO        Latino         Blanco .                                                                                            
+CARIDAD        Latino         Amor .                                                                                              
+CARINA         Griego         Puro, inocente .                                                                                    
+CARLOS         Germano        Fuerte, viril .                                                                                     
+CARLA          Germano        Fuerte, viril.                                                                                      
+CAROLA         Germano        Fuerte.                                                                                             
+CAROLINA       Germano        Fuerte .                                                                                            
+CARMELO        Hebreo         Viña .                                                                                              
+CARMEN         Latino         Verso, cantar. Encantadora .                                                                        
+CAROLINA       Germano        Relativa a lo viril .                                                                               
+CASILDA        Árabe          Cantarina .                                                                                         
+CASIMIRO       Eslavo         Mira por la paz .                                                                                   
+CATALINA       Griego         Pura .                                                                                              
+CAYETANO       Latino         Natural de Gaeta (Itália) .                                                                         
+CECILIA        Latino         Justa. Ciega (como la justicia) .                                                                   
+CELESTINA      Latino         Celestial .                                                                                         
+CELIA          Latino         Avreviatura de Celestina.                                                                           
+CELINA         Latino         Abreviatura de Celestina .                                                                          
+CRISANTO       Griego         Flor de oro .                                                                                       
+CRISTIAN       Griego         Hombre de Cristo .                                                                                  
+CRISTINA       Latino         La que sigue a Cristo .                                                                             
+CELSO          Latino         Excelso .                                                                                           
+CESAR          Latino         Adorno del cabello .                                                                                
+CESAREO        Latino         Nacido por cesárea .                                                                                
+CINTIA         Griego         Del lugar de Kinthos .                                                                              
+CIPRIANO       Latino         Delgado, transparente .                                                                             
+CIRILO         Griego         Señorial .                                                                                          
+CIRO           Persa          El sol .                                                                                            
+CLARA          Latino         Brillante, ilustrada .                                                                              
+CLAUDIO        Latino         Cojo.                                                                                               
+CLAUDIA        Latino         Cojo .                                                                                              
+CLEMENTE       Latino         Misericordioso, suave .                                                                             
+CLEOPATRA      Griego         Gloria de su tierra .                                                                               
+CLOTILDE       Germano        Famosa en la batalla .                                                                              
+CONCEPCIÓN     Latino         Que concibe .                                                                                       
+CONRADO        Germano        Audaz, consejero, sabio .                                                                           
+CONSTANCIO     Latino         Firme. Fidedigno .                                                                                  
+CONSTANTINO    Latino         Firme .                                                                                             
+CONSUELO       Latino         Advertencia .                                                                                       
+CORA           Griego         Doncella .                                                                                          
+CORDELIA       Celta          Joya del mar .                                                                                      
+CORNELIO       Latino         Coronado .                                                                                          
+COSME          Griego         Adornado .                                                                                          
+CRISTOBAL      Griego         Que lleva a Cristo .                                                                                
+CRISOSTOMO     Griego         Boca de oro .                                                                                       
+CRUZ           Latino         Cruz .                                                                                              
+DAGOBERTO      Germano        El que lleva la espada .                                                                            
+DANA           Hebreo         Justicia .                                                                                          
+DANIEL         Hebreo         Dios es juez .                                                                                      
+DARIO          Persa          Preservador .                                                                                       
+DAVID          Hebreo         Amado .                                                                                             
+DEBORA         Hebreo         Abeja, industriosa .                                                                                
+DELIA          Griego         Casta .                                                                                             
+DELMIRO        Germano        De nobleza insigne .                                                                                
+DEMETRIO       Griego         Sagrado para la tierra .                                                                            
+DIANA          Latino         Diosa de la Luna .                                                                                  
+DIEGO          Hebreo         Suplantador .                                                                                       
+DINA           Hebreo         Vengada .                                                                                           
+DIONISIO       Griego         Que pertenece a Dionisos (Baco) .                                                                   
+DOLORES        Latino         Pesares .                                                                                           
+DOMINGO        Latino         Hijo del Señor.                                                                                     
+DOMINICO       Latino         Hijo del Señor .                                                                                    
+DONATO         Latino         Regalo de Dios .                                                                                    
+DORA           Griego         Regalo de Dios .                                                                                    
+DULCINEA       Latino         Dulce .                                                                                             
+EDGARDO        Germano        Justo, protector .                                                                                  
+EDITH          Germano        Rico don .                                                                                          
+EDMUNDO        Germano        Paz bendita .                                                                                       
+EDUARDO        Germano        Guardián de las mercancías .                                                                        
+EFRAIN         Hebreo         Fructífero .                                                                                        
+EFREN          Hebreo         Fructífero .                                                                                        
+ELENA          Griego         Luz.                                                                                                
+ELEONOR        Griego         Luz .                                                                                               
+ELIAS          Hebreo         El Señor es Dios .                                                                                  
+ELISA          Hebreo         Dios del Juramento .                                                                                
+ELISABETH      Hebreo         Consagrada a Dios .                                                                                 
+ELOISA         Germano        combatiente gloriosa .                                                                              
+ELOY           Francés        Elegido .                                                                                           
+ELSA           Germano        Regocijo .                                                                                          
+ELVIRA         Latino         Noble, bravía .                                                                                     
+EMILIA         Griego         Graciosa.                                                                                           
+EMILIO         Griego         Gracioso .                                                                                          
+EMA            Griego         Que tiene gracia .                                                                                  
+EMANUEL        Hebreo         Dios con nosotros .                                                                                 
+EMILIO         Griego         Amable .                                                                                            
+ENCARNACIÓN    Latino         Hacerse carne .                                                                                     
+ENGRACIA       Latino         Favorecida por Dios .                                                                               
+ENRIQUE        Germano        Poderoso por su linaje .                                                                            
+ERASMO         Griego         Que merece amor .                                                                                   
+ERICO          Germano        Heroico.                                                                                            
+ERIC           Germano        Heroico.                                                                                            
+ERICA          Germano        Heroico .                                                                                           
+ERNESTO        Germano        Serio. Celoso .                                                                                     
+ESMERALDA      Latino         La muy admirada .                                                                                   
+ESPERANZA      Latino         Deseo .                                                                                             
+ESTEBAN        Griego         Merecidamente coronado .                                                                            
+ESTEFANIA      Griego         Merecidamente coronada .                                                                            
+ESTELA         Latín          Estrella .                                                                                          
+ESTER          Persa          Estrella buena fortuna .                                                                            
+ETEL           Germano        Noble .                                                                                             
+EUCLIDES       Griego         De buena reputación .                                                                               
+EUDOSIA        Griego         De la que bien se piensa.                                                                           
+EUDOXIO        Griego         Del que bien se piensa.                                                                             
+EUDOXIA        Griego         De la que bien se piensa .                                                                          
+EUFEMIO        Griego         De buena palabra .                                                                                  
+EUFEMIA        Griego         De buena palabra .                                                                                  
+EUFRASIO       Griego         Regocijante .                                                                                       
+EUFRASIA       Griego         Regocijante .                                                                                       
+EUGENIO        Griego         Bien nacido .                                                                                       
+EUGENIA        Griego         Bien nacida .                                                                                       
+EULALIO        Griego         Bien hablado .                                                                                      
+EULALIA        Griego         Bien hablada .                                                                                      
+EUSEBIO        Griego         Piadoso .                                                                                           
+EUSTAQUIO      Griego         Sano, firme .                                                                                       
+EVA            Hebreo         Vida .                                                                                              
+EVANGELINA     Griego         Que trae buenas nuevas .                                                                            
+EVARISTO       Griego         Óptimo .                                                                                            
+EZEQUIEL       Hebreo         El Señor es mi fuerza .                                                                             
+FABIAN         Latino         Granjero .                                                                                          
+FABIOLA        Latino         Cultivadora de habas .                                                                              
+FANNY          Germano        Libre .                                                                                             
+FATIMA         Árabe          Doncella, joven .                                                                                   
+FAUSTINO       Latino         Afortunado .                                                                                        
+FAUSTO         Latino         Afortunado .                                                                                        
+FEDERICO       Germano        Que gobierna en paz .                                                                               
+FEDOR          Griego         Don de Dios .                                                                                       
+FELIX          Latino         Feliz .                                                                                             
+FELIPE         Griego         Amante de los caballos .                                                                            
+FERMIN         Latino         Fuerte y firme .                                                                                    
+FERNANDO       Germano        Valiente pero pacífico .                                                                            
+FIDEL          Latino         Fiel .                                                                                              
+FILIBERTO      Griego         Inteligente .                                                                                       
+FILOMENO       Griego         Amante del canto .                                                                                  
+FLAVIO         Latino         De cabellos rubios .                                                                                
+FLORA          Latino         Flor, Diosa de las flores .                                                                         
+FLORENCIO      Latino         Florido .                                                                                           
+FLORENCIA      Latino         Florida .                                                                                           
+FLORIDA        Latino         Colorida .                                                                                          
+FLORINDA       Latino         Colorida .                                                                                          
+FLORIÁN        Latino         Floreciente, próspero .                                                                             
+FRANCISCO      Germano        Libre .                                                                                             
+FRANCO         Germano        Libre .                                                                                             
+FRIDA          Germano        Pacífica .                                                                                          
+FROILAN        Germano        Compañero .                                                                                         
+FULVIO         Latino         Dorado  .                                                                                           
+GABRIEL        Hebreo         Fuerza de Dios .                                                                                    
+GALATEA        Griego         Blanca como la leche .                                                                              
+GASPAR         Persa          Tesorero .                                                                                          
+GEDEÓN         Hebreo         De la colina .                                                                                      
+GENOVEVA       Celta          Espuma de mar .                                                                                     
+GERARDO        Germano        Hábil en armas .                                                                                    
+GERMAN         Latino         Alemán .                                                                                            
+GERTRUDIS      Germano        Veraz .                                                                                             
+GILBERTO       Germano        Sirviente brillante .                                                                               
+GLADIS         Celta          Que gobierna un gran territorio .                                                                   
+GLORIA         Latino         Fama .                                                                                              
+GODOFREDO      Germano        Paz de Dios .                                                                                       
+GRACIA         Latino         Gracia .                                                                                            
+GRACIELA       Latino         Agraciada .                                                                                         
+GREGORIO       Griego         Vigilante .                                                                                         
+GRISEL         Germano        De ojos grises .                                                                                    
+GRISELDA       Germano        De ojos grises .                                                                                    
+GUALTERIO      Germano        Guerrero poderoso .                                                                                 
+GUIDO          Latino         Guía, conductor .                                                                                   
+GUILLERMO      Germano        Casco de oro .                                                                                      
+GUSTAVO        Germano        Báculo del godo .                                                                                   
+HAROLDO        Germano        General .                                                                                           
+HAYDEE         Griego         Acariciada .                                                                                        
+HEBE           Griego         Juventud .                                                                                          
+HELENA         Griego         Antorcha .                                                                                          
+HELIDA         Hebreo         De Dios .                                                                                           
+HELI           Hebreo         De Dios .                                                                                           
+HECTOR         Griego         Prudente defensor .                                                                                 
+HERIBERTO      Germano        De ejército distinguido .                                                                           
+HERIBERTA      Germano        De ejército distinguido .                                                                           
+HERMELANDO     Germano        De antigua tribu germánica .                                                                        
+HERMELINDA     Germano        De antigua tribu germánica .                                                                        
+HERMINIO       Germano        Enérgica .                                                                                          
+HERMINIA       Germano        Enérgica .                                                                                          
+HERNÁN         Germano        Atrevido, bravo .                                                                                   
+HIGINIO        Griego         Vigoroso.                                                                                           
+HIGINIA        Griego         Vigorosa .                                                                                          
+HILARIO        Latino         Alegre, risueño .                                                                                   
+HILARIA        Latino         Alegre, risueña .                                                                                   
+HILDA          Germano        Poderosa en la batalla .                                                                            
+HIPOLITO       Griego         Caballo de piedra .                                                                                 
+HOMERO         Griego         Prenda, fianza, rehén .                                                                             
+HONORIO        Latino         Honorable .                                                                                         
+HORACIO        Latino         De mirada penetrante .                                                                              
+HORTENSIO      Latino         Jardinero .                                                                                         
+HUGO           Germano        Altivo, inteligente .                                                                               
+HUBERTO        Germano        Inteligencia luminosa .                                                                             
+HUMBERTO       Germano        Muy brillante  .                                                                                    
+IDA            Griego         Feliz .                                                                                             
+IDEFONSO       Germano        Luchador .                                                                                          
+IGNACIO        Griego         Orgulloso .                                                                                         
+IMANOL         Vasco          Forma de Manuel y Emanuel (hebreo). Dios con nosotros .                                             
+IMELDA         Germano        Poderosa en la lucha .                                                                              
+IÑIGO          Griego         Orgulloso .                                                                                         
+INDALECIO      Vasco          Fuerza .                                                                                            
+INES           Griego         Pura, casta .                                                                                       
+INGRID         Germano        De la tribu de los ingviones .                                                                      
+IRENE          Griego         Paz .                                                                                               
+IRIS           Griego         Arco Iris .                                                                                         
+IRMA           Germano        Noble doncella .                                                                                    
+ISAAC          Hebreo         El que ríe .                                                                                        
+ISABEL         Hebreo         Dios del Juramento .                                                                                
+ISADORA        Griego         Don equitativo .                                                                                    
+ISIDORO        Griego         Don equitativo .                                                                                    
+ISAIAS         Hebreo         Salvación del Señor .                                                                               
+ISRAEL         Hebreo         Príncipe de Dios .                                                                                  
+IVAN           Hebreo         Dios es misericordioso .                                                                            
+IVANA          Hebreo         Dios es misericordioso .                                                                            
+IVONNE         Germano        Gloriosa .                                                                                          
+JACINTO        Griego         Flor .                                                                                              
+JACOBO         Hebreo         Suplantador .                                                                                       
+JAQUELINE      Francés        Que se agarra el talón .                                                                            
+JAIRO          Hebreo         Dios quiera lucir .                                                                                 
+JAVIER         Vasco          Casa nueva .                                                                                        
+JAZMIN         Persa          Flor del mismo nombre .                                                                             
+JAIME          Hebreo         Suplantador .                                                                                       
+JENNIFER       Galés          Blanca como la espuma de mar .                                                                      
+JEREMIAS       Hebreo         Elevado por el Señor- Exaltación del Señor .                                                        
+JERÓNIMO       Griego         Sagrado .                                                                                           
+JESSICA        Escocés        Forma escocesa de Juana .                                                                           
+JESUS          Hebreo         Diminutivo de Jehová .                                                                              
+JOAQUIN        Hebreo         El Señor juzgará .                                                                                  
+JOB            Hebreo         Perseguido .                                                                                        
+JONATAN        Hebreo         Don de Dios .                                                                                       
+JONHATAN       Hebreo         Don de Dios .                                                                                       
+JORGE          Griego         Agricultor .                                                                                        
+JOSE           Hebreo         Aumentará (hijos) .                                                                                 
+JOSEFA         Hebreo         Dios proveerá (hijos) .                                                                             
+JOSEFINA       Hebreo         Dios dará .                                                                                         
+JONAS          Hebreo         Paloma .                                                                                            
+JOSUE          Hebreo         El Señor es la salvación .                                                                          
+JUAN           Latino         Don gracioso de Dios .                                                                              
+JUANA          Latino         Don de Dios .                                                                                       
+JUDA           Hebreo         Alabado .                                                                                           
+JUDIT          Hebreo         Alabada .                                                                                           
+JUDITH         Hebreo         Alabada .                                                                                           
+JULIA          Latino         De cabello suave .                                                                                  
+JULIANA        Latino         De cabello suave .                                                                                  
+JULIO          Latino         De mucho pelo. Barbudo .                                                                            
+JULIAN         Latino         De mucho pelo. Barbudo .                                                                            
+JUSTINIANO     Latino         Recto .                                                                                             
+JUSTO          Latino         Recto .                                                                                             
+KAREN          Danés          Pura, inmaculada (del griego Catalina) .                                                            
+KATIA          Ruso           Pura, inmaculada (del griego Catalina) .                                                            
+KEVIN          Irlandés       Bonito nacimiento .                                                                                 
+LAMBERTO       Germano        Oveja bravía .                                                                                      
+LAURA          Latino         Laurel (signo del triunfo) .                                                                        
+LAZARO         Hebreo         Ayuda de Dios .                                                                                     
+LEANDRO        Griego         Célebre .                                                                                           
+LEON           Latino         León .                                                                                              
+LEONARDO       Germano        Fuerte como un león .                                                                               
+LEÓNIDAS       Griego         Como el león .                                                                                      
+LEONOR         Griego         Luz .                                                                                               
+LEONORA        Griego         Luz .                                                                                               
+LEOPOLDO       Germano        Príncipe del pueblo, fuerte y amado .                                                               
+LETICIA        Latino         Felicidad .                                                                                         
+LIA            Hebreo         Lánguida .                                                                                          
+LIDA           Eslavo         Amada del pueblo .                                                                                  
+LIDIA          Griego         Nacido en Lydia (Asia Menor) .                                                                      
+LYDIA          Griego         Nacido en Lydia (Asia Menor) .                                                                      
+LILIANA        Latino         Lirio (símbolo de pureza) .                                                                         
+LINA           Germano        Diminutivo de Carola - Fuerte .                                                                     
+LINDA          Latino         Graciosa .                                                                                          
+LORENZO        Latino         Coronado de laurel .                                                                                
+LUCAS          Griego         Luminoso (forma griega de Lucio) .                                                                  
+LUCIA          Latino         Luminoso .                                                                                          
+LUCIANO        Latino         Luminoso.                                                                                           
+LUCIO          Latino         Luminoso .                                                                                          
+LUCRECIA       Latino         Afortunada .                                                                                        
+LUIS           Germano        Defensor del pueblo .                                                                               
+MABEL          Celta          Alegre .                                                                                            
+MACARENA       Sevillano      Alusivo al barrio del mismo nombre .                                                                
+MAGALI         Provenzal      Perla .                                                                                             
+MAGDALENA      Hebreo         Torre, vigilante .                                                                                  
+MAITE          Vasco          Encarnación .                                                                                       
+MALVINA        Celta          Criada .                                                                                            
+MANUEL         Hebreo         Dios con nosotros .                                                                                 
+MARCELO        Latino         Guerrero .                                                                                          
+MARCOS         Hebreo         Amargo .                                                                                            
+MARGARITA      Griego         Perla .                                                                                             
+MARIA          Hebreo         Señora .                                                                                            
+MARIANA        Hebreo         Señor en la gracia de Dios .                                                                        
+MARTA          Hebreo         Afligida .                                                                                          
+MARTIN         Latino         Guerrero .                                                                                          
+MATEO          Hebreo         Don del Señor.                                                                                      
+MATIAS         Hebreo         Don del Señor .                                                                                     
+MATILDE        Germano        Poderosa en la batalla .                                                                            
+MAURICIO       Latino         Moro, de color oscuro .                                                                             
+MAURO          Latino         Moro, de color oscuro .                                                                             
+MAXIMILIANO    Latino         De los más grandes .                                                                                
+MAXIMO         Latino         De los más grandes .                                                                                
+MIGUEL         Hebreo         ¿Quién es como Dios? .                                                                              
+MINA           Latino         Pequeña .                                                                                           
+MIRIAM         Hebreo         Rebelión .                                                                                          
+MIRTA          Griego         Mirto (Símbolo de la belleza) .                                                                     
+MOISES         Hebreo         Salvado de las aguas .                                                                              
+MÓNICA         Griego         Solitaria .                                                                                         
+NAPOLEÓN       Griego         León de la nueva ciudad .                                                                           
+NARCISO        Griego         Hermoso .                                                                                           
+NATALIO        Latino         Recién nacido .                                                                                     
+NATAN          Hebreo         Don de Dios .                                                                                       
+NAUM           Hebreo         Confortador .                                                                                       
+NELIDA         Griego         Luz (variante de Elena) .                                                                           
+NESTOR         Griego         El que recuerda .                                                                                   
+NICOLÁS        Griego         Conquistador .                                                                                      
+NIDIA          Latino         Ave recién salida del nido .                                                                        
+NOE            Hebreo         Descanso .                                                                                          
+NORMA          Latino         Modelo, regla .                                                                                     
+NURIA          Latino         Advocación catalana a la Virgen María .                                                             
+OCTAVIO        Latino         Octavo .                                                                                            
+OFELIA         Griego         Serpiente .                                                                                         
+OLGA           Germano        Sagrada .                                                                                           
+OLIMPIA        Griego         Celestial .                                                                                         
+OLIVERIO       Latino         El que porta la rama de olivo .                                                                     
+OLIVIA         Latino         El olivo (signo de paz) .                                                                           
+OMAR           Árabe          Mejor .                                                                                             
+ORLANDO        Italiano       Fama del país (Forma italiana de Rolando) .                                                         
+OSCAR          Celta          Guerrero saltarín .                                                                                 
+OSVALDO        Germano        Regidor divino .                                                                                    
+OTON           Germano        Montaña .                                                                                           
+PABLO          Latino         Pequeño .                                                                                           
+PAOLO          Latino         Pequeño .                                                                                           
+PANFILO        Griego         Amigo de todos .                                                                                    
+PALOMA         Latino         Paloma .                                                                                            
+PASCUAL        Latino         De las Pascuas .                                                                                    
+PATRICIO       Latino         Noble .                                                                                             
+PAULA          Latino         Pequeña .                                                                                           
+PAOLA          Latino         Pequeña .                                                                                           
+PAULINO        Griego         El más pequeño .                                                                                    
+PAULINA        Griego         La más pequeña .                                                                                    
+PAZ            Latino         Se usa especialmente como advocación mariana .                                                      
+PEDRO          Griego         Roca .                                                                                              
+PENELOPE       Griego         Aumenta lo tejido .                                                                                 
+PERLA          Latino         Perla (Símbolo de salud) .                                                                          
+PILAR          Latino         Alta, fuerte .                                                                                      
+PIEDAD         Latino         Devoción .                                                                                          
+PIO            Latino         Devoto .                                                                                            
+PIA            Latino         Devota .                                                                                            
+PRISCILA       Latino         Antigua, venerable .                                                                                
+PRUDENCIA      Latino         Prudencia (virtud de ser prudente) .                                                                
+PURA           Latino         Sin mancha  .                                                                                       
+RAFAEL         Hebreo         Dios ha curado .                                                                                    
+RAIMUNDO       Germano        Protección sabia .                                                                                  
+RAMIRO         Germano        Poderoso en la guerra .                                                                             
+RAMONA         Germano        Protectora sensata .                                                                                
+RAMON          Germano        Protector sensato .                                                                                 
+RAQUEL         Hebreo         Oveja del Señor .                                                                                   
+RAUL           Francés        Guerrero atrevido .                                                                                 
+REBECA         Hebreo         Lazo corredizo, trampa .                                                                            
+REINA          Latino         Reina .                                                                                             
+REINALDO       Germano        Juez poderoso .                                                                                     
+REGINA         Latino         Reina .                                                                                             
+REMEDIOS       Latino         Alivio .                                                                                            
+RENATO         Latino         Renacido .                                                                                          
+RENE           Latino         Renacido .                                                                                          
+RICARDO        Germano        Guerrero temerario .                                                                                
+RITA           Latino         Ceremoniosa .                                                                                       
+ROBERTO        Germano        De fama brillante .                                                                                 
+ROCIO          Latino         Lágrimas de flor .                                                                                  
+RODOLFO        Germano        Lobo de fama .                                                                                      
+RODRIGO        Germano        Rico en fama .                                                                                      
+ROGELIO        Germano        Lanza de fama .                                                                                     
+ROLANDO        Germano        Fama del país .                                                                                     
+ROLAN          Germano        Fama del país .                                                                                     
+ROMAN          Latino         De Rumania .                                                                                        
+ROMEO          Latino         Buen hombre de Roma .                                                                               
+ROMILDA        Germano        Guerrera famosa .                                                                                   
+ROMILDO        Germano        Guerrero famoso .                                                                                   
+RONALDO        Germano        Gobernante glorioso .                                                                               
+ROQUE          Persa          Elevado .                                                                                           
+ROSA           Latino         La rosa .                                                                                           
+ROSALIA        Latino         Rosa pequeña .                                                                                      
+ROSAMUNDA      Germano        Guardia famosa .                                                                                    
+ROSANA         Latino         Como una rosa .                                                                                     
+ROSARIO        Latino         Jardín de rosas .                                                                                   
+ROSENDO        Germano        Soldado .                                                                                           
+ROXANA         Persa          La brillante .                                                                                      
+RUBEN          Hebreo         ¡He aquí un hijo! .                                                                                 
+RUFINO         Latino         Rojo .                                                                                              
+RUPERTO        Germano        De fama brillante .                                                                                 
+RUT            Hebreo         Amistad, misericordia .                                                                             
+RUTH           Hebreo         Amistad, misericordia .                                                                             
+SABINA         Latino         Mujer sabina (El pueblo de Italia) .                                                                
+SAGRARIO       Latino         Receptáculo sagrado .                                                                               
+SALOME         Hebreo         Pacífica .                                                                                          
+SALOMON        Hebreo         Pacífico .                                                                                          
+SALVADOR       Latino         Salvador .                                                                                          
+SAMANTA        Hebreo         Que escucha .                                                                                       
+SAMUEL         Hebreo         Oído por Dios .                                                                                     
+SANCHO         Latino         Santo .                                                                                             
+SANDRA         Germano        Auxiliar de los hombres .                                                                           
+SANSON         Hebreo         Como el sol .                                                                                       
+SANTIAGO       Latino         Sancti Yago (Del hebreo Jacobo: Suplantador) .                                                      
+SARA           Hebreo         Princesa .                                                                                          
+SAUL           Hebreo         Llamado .                                                                                           
+SEBASTIAN      Griego         Venerable, augusto .                                                                                
+SEGISMUNDO     Germano        Vencedor .                                                                                          
+SERAFIN        Hebreo         Ángel de fuego .                                                                                    
+SERENA         Latino         Tranquila .                                                                                         
+SERGIO         Latino         De Serbia .                                                                                         
+SIGFRIDO       Germano        Conquistador de la paz .                                                                            
+SERVANDO       Latino         Observa, cumple, guarda .                                                                           
+SHEILA         Irlandés       Celestial. Antigua adaptación de Celia .                                                            
+SILVAN         Latino         Del bosque .                                                                                        
+SILVANO        Latino         Del bosque .                                                                                        
+SILVESTRE      Latino         Rústico .                                                                                           
+SILVIO         Latino         Del bosque .                                                                                        
+SILVIA         Latino         Del bosque .                                                                                        
+SIMON          Hebreo         El que escucha .                                                                                    
+SIMEON         Hebreo         El que escucha .                                                                                    
+SIRO           Persa          Sol .                                                                                               
+SIXTO          Griego         Adulador .                                                                                          
+SOCORRO        Latino         Dispuesta a ayudar .                                                                                
+SOFIA          Griego         Sabiduría .                                                                                         
+SOL            Latino         Astro rey .                                                                                         
+SOLANGE        Francés        Solemne .                                                                                           
+SOLEDAD        Latino         Sin compañía .                                                                                      
+SORAYA         Persa          Excelente .                                                                                         
+SONIA          Griego         Sabia pensadora .                                                                                   
+SUSANA         Hebreo         Lirio .                                                                                             
+SUYAY          Quechua        Esperar, aguardar .                                                                                 
+TADEO          Hebreo         Oración de gracias .                                                                                
+TAMAR          Hebreo         Palmera .                                                                                           
+TAMARA         Hebreo         Palmera .                                                                                           
+TANIA          Ruso           Que procede de Tacio, legendario rey de los sabinos .                                               
+TATIANA        Latino         Defensora .                                                                                         
+TELMA          Griego         Favorita, niña mimada .                                                                             
+TEOBALDO       Germano        Príncipe del pueblo .                                                                               
+TEODORO        Griego         Don de Dios .                                                                                       
+TEODORICO      Germano        Regla del pueblo .                                                                                  
+TEODOSIO       Griego         Dado divinamente .                                                                                  
+TEOFILO        Griego         Amante de Dios .                                                                                    
+TERESA         Griego         Que lleva espigas de trigo .                                                                        
+TIRSO          Latino         Rama de vid .                                                                                       
+TITO           Latino         Defensor .                                                                                          
+TIMOTEO        Griego         Que honra a Dios .                                                                                  
+TOBIAS         Hebreo         El Señor es bueno .                                                                                 
+TOMAS          Hebreo         Mellizo, gemelo .                                                                                   
+TRINIDAD       Latino         Tres en uno .                                                                                       
+TRISTÁN        Escocés        Pacto, consuelo .                                                                                   
+ULISES         Griego         Colérico, iracundo .                                                                                
+ULRICO         Germano        Noble señor .                                                                                       
+URBANO         Latino         Dios del hogar .                                                                                    
+URIEL          Hebreo         Luz de Dios .                                                                                       
+URSULA         Latino         Osa pequeña .                                                                                       
+VALENTIN       Latino         Fuerte, valeroso .                                                                                  
+VALERIO        Latino         Sano .                                                                                              
+VALERIA        Latino         Sana .                                                                                              
+VANESA         Creado         por Jonathan Swift Del personaje Esther Vanhomringh .                                               
+VENTURA        Latino         Afortunado .                                                                                        
+VELASCO        Germano        Cuervo .                                                                                            
+VERA           Latino         Verdadera .                                                                                         
+VERONICA       Latino         Imagen de la verdad .                                                                               
+VICENTE        Latino         Conquistador .                                                                                      
+VICTOR         Latino         Vencedor .                                                                                          
+VICTORIA       Latino         Vencedora .                                                                                         
+VICTORIANO     Latino         Vencedor .                                                                                          
+VIDA           Latino         Vacía .                                                                                             
+VILMA          Germano        Protectora .                                                                                        
+VIOLETA        Latino         Violeta (Símbolo de modestia) .                                                                     
+VIRGILIO       Latino         Floreciente .                                                                                       
+VIRGINIA       Latino         Virgen .                                                                                            
+VIVIANA        Latino         Vivaz, animada .                                                                                    
+VLADIMIR       Eslavo         Gloria del príncipe .                                                                               
+WALTER         Germano        Caudillo del Ejército .                                                                             
+WENCESLAO      Checo          El más glorioso .                                                                                   
+WILFREDO       Germano        Pacificador decidido  .                                                                             
+YAGO           Hebreo         Suplantador.                                                                                        
+YERAY          Canario        Grande .                                                                                            
+YOLANDA        Germano        La más justa .                                                                                      
+ZACARIAS       Hebreo         El Señor ha recordado .                                                                             
+ZENOBIA        Árabe          Orgullo de su padre .                                                                               
+ZOE            Griego         Vida .                                                                                              
+ZITA           Toscano        Muchacha alegre .                                                                                   
+ZORAIDA        Árabe          Mujer cautivadora .                                                                                 
+ZULEMA         Hebreo         Amante de la paz.                                                                                   

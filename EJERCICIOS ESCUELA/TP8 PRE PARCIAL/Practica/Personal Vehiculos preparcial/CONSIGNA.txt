@@ -1,0 +1,12 @@
+EXAMEN  PARCIAL N° 2
+1- Recibirá dos archivos: PERSONAS.DAT y VEHICULOS.DAT con información. 
+En un archivo hay datos de personas y en el otro los datos del vehículo 
+que cada persona posee (relacionado con el DNI). Luego escriba un programa 
+Ruby que permita:
+
+a) Para aquellas personas que viven en PUNTA ALTA, genere un nuevo archivo
+llamado SALIDA.DAT que contenga DNI+APELLIDO Y NOMBRES+PATENTE+MARCA VEHICULO.
+(formateado)
+
+b) Además genere 2 olas con los APELLIDOS Y NOMBRES, una para las personas
+que viven en  BAHIA BLANCA y otra para las de PUNTA ALTA.

@@ -1,0 +1,6 @@
+def sumar(n1,n2=5)
+    resultado=n1+n2
+    return resultado
+end
+
+total=sumar(1)

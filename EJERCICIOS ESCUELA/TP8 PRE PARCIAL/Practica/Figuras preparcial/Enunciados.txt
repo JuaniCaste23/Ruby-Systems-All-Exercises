@@ -1,0 +1,15 @@
+Ejercicio 1:
+
+En un curso de 30 alumnos, 17 alumnos coleccionan figuritas en un álbum. El álbum se completa al pegar 70 figuritas, que se numeran del  1 al  70.
+Cada uno de los coleccionistas tiene distinta cantidad de figuritas pegadas en su álbum y como falta poco para la entrega de premios los niños se
+ reúnen con la intención de cambiar pero más aún detectar cuales son las figuritas llamadas “difíciles”.
+
+Ayude a estos niños, conociendo las figuritas que tiene cada uno de ellos, a determinar cuáles son las más difíciles y cuál niño posee más cantidad de figuritas pegadas.
+
+Utilice números al azar y una estrategia de simulación para generar las figuritas que tiene y no tiene cada niño.
+
+Ejercicio 2:
+
+Busque y descargue en Internet un archivo que contenga un diccionario inglés a español en modo texto con la mayor cantidad de palabras posibles. 
+Realice un programa en donde pueda ingresar una palabra en idioma ingles (o parte de ella) y devuelva la traducción al español. 
+El programa finaliza cuando no se ingresa nada.
